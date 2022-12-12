@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho como HelpDesk na Magna sistemas...
 - 🌱 Estudando java / JavaScript / Phython...
+- 👯 Procuro me tornar uma desenvolvedora FullStack
 
 <div align="center">
   <a href="https://github.com/cleudiani">
